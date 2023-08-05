@@ -6,7 +6,7 @@ const initClipPath = "inset(0px 16px 0px 500px round 10px)";
 
 const variants = {
   visible: {
-    height: ["90px", "200px"],
+    height: ["90px", "220px"],
     clipPath: [initClipPath, "inset(0px 0px 0px 0px)"],
   },
   hidden: {},
