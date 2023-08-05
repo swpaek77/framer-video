@@ -69,7 +69,7 @@ const Ads = () => {
                   autoPlay
                   loop
                   muted
-                  playsinline
+                  playsInline
                 />
                 <div
                   className="absolute top-0 right-2 p-1 cursor-pointer text-white font-bold"
